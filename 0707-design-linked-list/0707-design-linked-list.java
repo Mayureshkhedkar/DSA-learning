@@ -41,7 +41,8 @@ class MyLinkedList {
     }
     
     public void addAtIndex(int index, int val) {
-        if(index<0 || index>size)return;
+        if(index<0) index=0;
+        if(index>size) return;
         ListNode curr=head;
         size++;
         for(int i=0; i<index; i++){
