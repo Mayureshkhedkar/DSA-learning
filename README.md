@@ -13,6 +13,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0707-design-linked-list) |
 ## Design
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0409-longest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
