@@ -26,7 +26,6 @@ class Solution {
         if (size == n) {
             return head.next;
         }
-        System.out.println(size);
         curr = head;
         int i=0;
         while(i<size-n-1){
