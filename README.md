@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -35,10 +36,12 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0409-longest-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0142-linked-list-cycle-ii) |
