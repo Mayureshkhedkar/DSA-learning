@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0704-binary-search) |
@@ -54,6 +55,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1346-check-if-n-and-its-double-exist) |
