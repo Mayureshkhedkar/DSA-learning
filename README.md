@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0020-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1346-check-if-n-and-its-double-exist) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
