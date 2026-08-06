@@ -12,6 +12,6 @@ class Solution {
             sum=sum+nums[i]-nums[i-k];
             max1=Math.max(max1,sum);
         }
-        return max1/k;
+        return (double) max1/k;
     }
 }
