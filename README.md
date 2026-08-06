@@ -14,6 +14,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1652-defuse-the-bomb](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,5 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
