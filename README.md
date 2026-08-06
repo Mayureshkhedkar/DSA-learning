@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
@@ -81,4 +82,5 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
