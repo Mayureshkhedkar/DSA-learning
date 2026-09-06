@@ -27,6 +27,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0141-linked-list-cycle) |
@@ -69,6 +70,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0206-reverse-linked-list) |
 ## Sorting
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0104-maximum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
