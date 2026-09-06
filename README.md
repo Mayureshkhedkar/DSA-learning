@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0704-binary-search) |
+| [0941-valid-mountain-array](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0941-valid-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1652-defuse-the-bomb](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
