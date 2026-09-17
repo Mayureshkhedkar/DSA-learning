@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0142-linked-list-cycle-ii) |
@@ -77,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0015-3sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
