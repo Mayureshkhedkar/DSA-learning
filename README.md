@@ -76,6 +76,7 @@
 | [0002-add-two-numbers](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -112,4 +113,13 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
