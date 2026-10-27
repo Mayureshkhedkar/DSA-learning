@@ -15,6 +15,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1652-defuse-the-bomb](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
@@ -63,6 +64,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0015-3sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
