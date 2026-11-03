@@ -25,6 +25,7 @@
 | [0141-linked-list-cycle](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0409-longest-palindrome) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
@@ -47,6 +48,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Stack
