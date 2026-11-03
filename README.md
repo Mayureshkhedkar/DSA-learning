@@ -46,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0242-valid-anagram) |
@@ -58,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -125,9 +127,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0509-fibonacci-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayureshkhedkar/DSA-learning/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
